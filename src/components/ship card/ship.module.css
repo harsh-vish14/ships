@@ -1,0 +1,14 @@
+.shipCard {
+  width: 100%;
+}
+.image {
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
